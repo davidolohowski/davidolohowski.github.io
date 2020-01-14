@@ -1,16 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic</title>
+    <title>Dayi (David) Li</title>
     <link>https://davidolohowski.github.io/</link>
       <atom:link href="https://davidolohowski.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Academic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <description>Dayi (David) Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Academic</title>
+      <title>Dayi (David) Li</title>
       <link>https://davidolohowski.github.io/</link>
     </image>
+    
+    <item>
+      <title>Spatial Statistics and Astronomy</title>
+      <link>https://davidolohowski.github.io/talk/birs-2021/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/talk/birs-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going Probablistic: Probing the Distributional Properties of Stellar Objects in M33 with Gibbs Point Process Model</title>
+      <link>https://davidolohowski.github.io/talk/jsm2020-talk/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/talk/jsm2020-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://davidolohowski.github.io/about-me/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/about-me/</guid>
+      <description>&lt;h4 id=&#34;where-i-am-from&#34;&gt;Where I am from&lt;/h4&gt;
+&lt;p&gt;I&#39;m originally from &lt;a href=&#34;https://en.wikipedia.org/wiki/Zhuzhou&#34; target=&#34;_blank&#34;&gt;Zhuzhou&lt;/a&gt;, &lt;a href=&#34;https://en.wikipedia.org/wiki/Hunan&#34; target=&#34;_blank&#34;&gt;Hunan&lt;/a&gt;, China, a &amp;ldquo;small&amp;rdquo; town with just over 4 million population. I then moved to &lt;a href=&#34;https://en.wikipedia.org/wiki/Changsha&#34; target=&#34;_blank&#34;&gt;Changsha&lt;/a&gt; for my high school education at &lt;a href=&#34;https://en.wikipedia.org/wiki/Yali_High_School&#34; target=&#34;_blank&#34;&gt;Yali High School&lt;/a&gt;. After that, I came to Canada for my post-secondary education.&lt;/p&gt;
+&lt;h4 id=&#34;how-to-pronounce-my-name&#34;&gt;How to pronounce my name&lt;/h4&gt;
+&lt;p&gt;My Chinese name is 李大一， 李 (pinyin：Lǐ) is the family name; 大一 (pinyin: Dà Yī) is my first name and it is quite unique. According to the police record, there are only 3 people having the same name as me in my home province Hunan, which has a population of 67 million. So finding me wouldn&#39;t be that difficult.&lt;/p&gt;
+&lt;p&gt;If you find it difficult to pronounce my Chinese name, just stick with my English name David and I actually prefer it nowadays since people hardly get my Chinese name right. Although yelling David in a crowd will probably lead to many head-turnings and confusions.&lt;/p&gt;
+&lt;h4 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h4&gt;
+&lt;p&gt;I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose. Here are some of the works I did over the years.&lt;/p&gt;
+&lt;p&gt;I am also a die-hard Barcelona fan simply because of the GOAT &amp;mdash; Lionel Messi. I don&#39;t think there should be any debate on whether Messi or Ronaldo is the best player of the world because Ronaldo is simply not on the same level as Messi, as supported by the analysis and results found in the following paper:&lt;/p&gt;
+&lt;p&gt;&lt;span style=&#34;font_size:90%&#34;&gt;Tom Decroos, Lotte Bransen, Jan Van Haaren, and Jesse Davis, (2019) &lt;a href=&#34;https://arxiv.org/pdf/1802.07127.pdf&#34; target=&#34;_blank&#34;&gt;Actions Speak Louder than Goals:
+Valuing Player Actions in Soccer&lt;/a&gt;, In &lt;em&gt;The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19)&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
+&lt;img src=&#34;me.jpg&#34; alt=&#34;Me&#34; style=&#34;padding: 15px;float:right;width:250px;height:250px;&#34;&gt;
+&lt;p&gt;I also started raving after coming to Canada &amp;mdash; something I would probaby never do if I stayed in China. As you can see from the right, it was quite fun. Some of my favorite DJs are DVLM, Rezz, and probably Hardwell. But I don&#39;t go as often as before since it has become more and more exhausting everytime I go.&lt;/p&gt;
+&lt;p&gt;I also quite enjoy classical musics as well as movie scores when I need to focus and study. Debussy and Mozart are probably on the top of my list. Interstellar and Star Wars soundtracks are simply genius.&lt;/p&gt;
+&lt;p&gt;I am also an avid fantasy/sci-fi fan. It might be cliche, but Star Wars, LOTR and Harry Potter can always make me go on and on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About my research</title>
+      <link>https://davidolohowski.github.io/research/</link>
+      <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/research/</guid>
+      <description>&lt;p&gt;Astrostatistics is an emerging and fast-growing cross-disciplinary field. It is at the intersection of astrophysics and statistics; it encompasses the application of modern statistical methodologies to astrophysics research, as well as the development of &lt;em&gt;novel&lt;/em&gt; statistical methodologies for astrophysics which can lead to application in other scientific disciplines.&lt;/p&gt;
+&lt;p&gt;I am a trained statistician, my research interests in statistics are mainly spatial statistics, Bayesian inference/computation, as well as Markov Chain Monte Carlo (MCMC) algorithms. In my Masters thesis, I worked on developing spatial point process models to investigate the spatial distribution of stellar objects (CO filament, giant molecular clouds, star clusters) in the M33 galaxy. This is a novel methodology in astronomy and it has led to potential new discoveries in the formation of young stellar clusters. I have also worked on facilitating Hamiltonian Monte Carlo (HMC) for a class of distribution called the doubly-intractable distribution where its likelihood contains an intractable normalizing constant.&lt;/p&gt;
+&lt;p&gt;My Ph.D. work will focus on developing novel methodology in spatial point processes to help astronomers better detect a class of galaxies called the ultra-diffuse galaxies. These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). Developing methods and models to understand the distribution of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gaussian Process Emulation of Doubly-Intractable Distribution with Hamiltonian Monte Carlo</title>
+      <link>https://davidolohowski.github.io/publication/gphmc-paper/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/gphmc-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Going Probablistic: Probing the Distributional Properties of Stellar Objects in M33 with Gibbs Point Process Model</title>
+      <link>https://davidolohowski.github.io/publication/m33-paper/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/m33-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point Process Modelling of Stellar Objects in the M33 Galaxy</title>
+      <link>https://davidolohowski.github.io/publication/msc-thesis/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/msc-thesis/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
