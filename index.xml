@@ -5,20 +5,12 @@
     <link>https://davidolohowski.github.io/</link>
       <atom:link href="https://davidolohowski.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dayi (David) Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dayi (David) Li</title>
       <link>https://davidolohowski.github.io/</link>
     </image>
-    
-    <item>
-      <title>Spatial Statistics and Astronomy</title>
-      <link>https://davidolohowski.github.io/talk/birs-2021/</link>
-      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://davidolohowski.github.io/talk/birs-2021/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Going Probablistic: Probing the Distributional Properties of Stellar Objects in M33 with Gibbs Point Process Model</title>
@@ -39,7 +31,7 @@
 &lt;p&gt;My Chinese name is 李大一， 李 (pinyin：Lǐ) is the family name; 大一 (pinyin: Dà Yī) is my first name and it is quite unique. According to the police record, there are only 3 people having the same name as me in my home province Hunan, which has a population of 67 million. So finding me wouldn&#39;t be that difficult.&lt;/p&gt;
 &lt;p&gt;If you find it difficult to pronounce my Chinese name, just stick with my English name David and I actually prefer it nowadays since people hardly get my Chinese name right. Although yelling David in a crowd will probably lead to many head-turnings and confusions.&lt;/p&gt;
 &lt;h4 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h4&gt;
-&lt;p&gt;I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose. Here are some of the works I did over the years.&lt;/p&gt;
+&lt;p&gt;I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose.&lt;/p&gt;
 &lt;p&gt;I am also a die-hard Barcelona fan simply because of the GOAT &amp;mdash; Lionel Messi. I don&#39;t think there should be any debate on whether Messi or Ronaldo is the best player of the world because Ronaldo is simply not on the same level as Messi, as supported by the analysis and results found in the following paper:&lt;/p&gt;
 &lt;p&gt;&lt;span style=&#34;font_size:90%&#34;&gt;Tom Decroos, Lotte Bransen, Jan Van Haaren, and Jesse Davis, (2019) &lt;a href=&#34;https://arxiv.org/pdf/1802.07127.pdf&#34; target=&#34;_blank&#34;&gt;Actions Speak Louder than Goals:
 Valuing Player Actions in Soccer&lt;/a&gt;, In &lt;em&gt;The 25th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’19)&lt;/em&gt;.&lt;/span&gt;&lt;/p&gt;
@@ -54,17 +46,10 @@ Valuing Player Actions in Soccer&lt;/a&gt;, In &lt;em&gt;The 25th ACM SIGKDD Con
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/research/</guid>
       <description>&lt;p&gt;Astrostatistics is an emerging and fast-growing cross-disciplinary field. It is at the intersection of astrophysics and statistics; it encompasses the application of modern statistical methodologies to astrophysics research, as well as the development of &lt;em&gt;novel&lt;/em&gt; statistical methodologies for astrophysics which can lead to application in other scientific disciplines.&lt;/p&gt;
-&lt;p&gt;I am a trained statistician, my research interests in statistics are mainly spatial statistics, Bayesian inference/computation, as well as Markov Chain Monte Carlo (MCMC) algorithms. In my Masters thesis, I worked on developing spatial point process models to investigate the spatial distribution of stellar objects (CO filament, giant molecular clouds, star clusters) in the M33 galaxy. This is a novel methodology in astronomy and it has led to potential new discoveries in the formation of young stellar clusters. I have also worked on facilitating Hamiltonian Monte Carlo (HMC) for a class of distribution called the doubly-intractable distribution where its likelihood contains an intractable normalizing constant.&lt;/p&gt;
-&lt;p&gt;My Ph.D. work will focus on developing novel methodology in spatial point processes to help astronomers better detect a class of galaxies called the ultra-diffuse galaxies. These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). Developing methods and models to understand the distribution of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
+&lt;p&gt;I am a trained statistician, my research interests in statistics are mainly spatial statistics, Bayesian inference/computation, as well as Markov Chain Monte Carlo (MCMC) algorithms.&lt;/p&gt;
+&lt;p&gt;My Ph.D. work will focus on developing novel methodology in spatial point processes to help astronomers better detect a class of newly-found galaxies called the ultra-diffuse galaxies(UDGs). These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). However, it has been found that many of these galaxies have a significant population of globular clusters which can be served as a tracer for the location of their home UDGs. Developing methods and models to discover more of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
+&lt;p&gt;In my Masters thesis, I worked on developing spatial point process models to investigate the spatial distribution of stellar objects (CO filament, giant molecular clouds, star clusters) in the M33 galaxy. This is a novel methodology in astronomy and it has led to potential new discoveries in the formation of young stellar clusters.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Gaussian Process Emulation of Doubly-Intractable Distribution with Hamiltonian Monte Carlo</title>
-      <link>https://davidolohowski.github.io/publication/gphmc-paper/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://davidolohowski.github.io/publication/gphmc-paper/</guid>
-      <description></description>
     </item>
     
     <item>
