@@ -21,6 +21,14 @@
     </item>
     
     <item>
+      <title>Gibbs Point Process Model for Young Star Clusters in M33</title>
+      <link>https://davidolohowski.github.io/publication/m33-paper/</link>
+      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/m33-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://davidolohowski.github.io/about-me/</link>
       <pubDate>Sun, 05 Jan 2020 00:00:00 +0000</pubDate>
@@ -50,14 +58,6 @@ Valuing Player Actions in Soccer&lt;/a&gt;, In &lt;em&gt;The 25th ACM SIGKDD Con
 &lt;p&gt;My Ph.D. work will focus on developing novel methodology in spatial point processes to help astronomers better detect a class of newly-found galaxies called the ultra-diffuse galaxies(UDGs). These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). However, it has been found that many of these galaxies have a significant population of globular clusters which can be served as a tracer for the location of their home UDGs. Developing methods and models to discover more of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
 &lt;p&gt;In my Masters thesis, I worked on developing spatial point process models to investigate the spatial distribution of stellar objects (CO filament, giant molecular clouds, star clusters) in the M33 galaxy. This is a novel methodology in astronomy and it has led to potential new discoveries in the formation of young stellar clusters.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Going Probablistic: Probing the Distributional Properties of Stellar Objects in M33 with Gibbs Point Process Model</title>
-      <link>https://davidolohowski.github.io/publication/m33-paper/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://davidolohowski.github.io/publication/m33-paper/</guid>
-      <description></description>
     </item>
     
     <item>
