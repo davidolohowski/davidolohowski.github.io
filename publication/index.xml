@@ -5,7 +5,7 @@
     <link>https://davidolohowski.github.io/publication/</link>
       <atom:link href="https://davidolohowski.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,9 +13,25 @@
     </image>
     
     <item>
+      <title>Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies</title>
+      <link>https://davidolohowski.github.io/publication/pcp-paper/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/pcp-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Light from the Darkness: Detecting Ultra-diffuse Galaxies in the Perseus Cluster through Over-densities of Globular Clusters with a Log-Gaussian Cox Process</title>
+      <link>https://davidolohowski.github.io/publication/lgcp-paper/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/publication/lgcp-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gibbs Point Process Model for Young Star Clusters in M33</title>
       <link>https://davidolohowski.github.io/publication/m33-paper/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/publication/m33-paper/</guid>
       <description></description>
     </item>

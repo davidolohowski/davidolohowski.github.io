@@ -5,7 +5,7 @@
     <link>https://davidolohowski.github.io/authors/</link>
       <atom:link href="https://davidolohowski.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -13,17 +13,89 @@
     </image>
     
     <item>
+      <title>Alex Stringer</title>
+      <link>https://davidolohowski.github.io/authors/alex-stringer/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/alex-stringer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Dayi Li</title>
       <link>https://davidolohowski.github.io/authors/dayi-li/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/authors/dayi-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gwendolyn Eadie</title>
+      <link>https://davidolohowski.github.io/authors/gwendolyn-eadie/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/gwendolyn-eadie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Brown</title>
+      <link>https://davidolohowski.github.io/authors/patrick-brown/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/patrick-brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Roberto Abraham</title>
+      <link>https://davidolohowski.github.io/authors/roberto-abraham/</link>
+      <pubDate>Mon, 13 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/roberto-abraham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aaron Romanowsky</title>
+      <link>https://davidolohowski.github.io/authors/aaron-romanowsky/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/aaron-romanowsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pieter van Dokkum</title>
+      <link>https://davidolohowski.github.io/authors/pieter-van-dokkum/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/pieter-van-dokkum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shany Danieli</title>
+      <link>https://davidolohowski.github.io/authors/shany-danieli/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/shany-danieli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Steven Janssens</title>
+      <link>https://davidolohowski.github.io/authors/steven-janssens/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/steven-janssens/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Harris</title>
+      <link>https://davidolohowski.github.io/authors/william-harris/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/authors/william-harris/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pauline Barmby</title>
       <link>https://davidolohowski.github.io/authors/pauline-barmby/</link>
-      <pubDate>Wed, 08 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/authors/pauline-barmby/</guid>
       <description></description>
     </item>
@@ -33,7 +105,7 @@
       <link>https://davidolohowski.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;I am a Ph.D. student in statistics advised by &lt;a href=&#34;https://www.astro.utoronto.ca/~eadie/intro.html&#34; target=&#34;_blank&#34;&gt;Gwen Eadie&lt;/a&gt;, &lt;a href=&#34;http://pbrown.ca/&#34; target=&#34;_blank&#34;&gt;Patrick Brown&lt;/a&gt;,  and &lt;a href=&#34;http://www.astro.utoronto.ca/~abraham/Web/Welcome.html&#34; target=&#34;_blank&#34;&gt;Roberto Abraham&lt;/a&gt; at the &lt;a href=&#34;https://www.utoronto.ca/&#34; target=&#34;_blank&#34;&gt;University of Toronto&lt;/a&gt;. I am a &lt;a href=&#34;https://canssiontario.utoronto.ca/?page_id=1091&#34; target=&#34;_blank&#34;&gt;CANSSI Ontario Multidisciplinary Doctoral (Mdoc) trainee&lt;/a&gt; and a &lt;a href=&#34;https://datasciences.utoronto.ca/doctoral-student-fellowship/&#34; target=&#34;_blank&#34;&gt;Data Sciences Institute Doctoral Fellow&lt;/a&gt;. My research interests lie in the emerging new field of astrostatistics as well as spatial statistics and Bayesian computation. My Ph.D. work focuses on developing novel methodology in spatial statistcs to better understand the mysterious ultra-diffuse galaxies.&lt;/p&gt;
+      <description>&lt;p&gt;I am a Ph.D. Candidate in statistics advised by &lt;a href=&#34;https://www.astro.utoronto.ca/~eadie/intro.html&#34; target=&#34;_blank&#34;&gt;Gwen Eadie&lt;/a&gt;, &lt;a href=&#34;http://pbrown.ca/&#34; target=&#34;_blank&#34;&gt;Patrick Brown&lt;/a&gt;,  and &lt;a href=&#34;http://www.astro.utoronto.ca/~abraham/Web/Welcome.html&#34; target=&#34;_blank&#34;&gt;Roberto Abraham&lt;/a&gt; at the &lt;a href=&#34;https://www.utoronto.ca/&#34; target=&#34;_blank&#34;&gt;University of Toronto&lt;/a&gt;. I am a &lt;a href=&#34;https://canssiontario.utoronto.ca/?page_id=1091&#34; target=&#34;_blank&#34;&gt;CANSSI Ontario Multidisciplinary Doctoral (Mdoc) trainee&lt;/a&gt; and a &lt;a href=&#34;https://datasciences.utoronto.ca/doctoral-student-fellowship/&#34; target=&#34;_blank&#34;&gt;Data Sciences Institute Doctoral Fellow&lt;/a&gt;. My research interests lie in the emerging new field of astrostatistics as well as spatial statistics and Bayesian computation. My Ph.D. work focuses on developing novel methodology in spatial statistcs to better understand the mysterious ultra-diffuse galaxies.&lt;/p&gt;
 &lt;p&gt;Before coming to UofT, I obtained my bachelor degree in financial modelling in 2018 at &lt;a href=&#34;https://www.uwo.ca/&#34; target=&#34;_blank&#34;&gt;Western University&lt;/a&gt;. Subsequently, I obtained my Masters degree in statistics in 2020 at Western University under the supervision of &lt;a href=&#34;http://fisher.stats.uwo.ca/faculty/aim/&#34; target=&#34;_blank&#34;&gt;Ian McLeod&lt;/a&gt; and &lt;a href=&#34;http://www.physics.uwo.ca/people/faculty_web_pages/barmby.html&#34; target=&#34;_blank&#34;&gt;Pauline Barmby&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;In general, I believe there is still an inadequacy of rigorous applications of advanced statistical methods in astronomy. Filling this inadequacy can bring about new understanding and discovery in astronomy and help us better understand the Universe. Hence, I am interested in novel statistical application in astronomy as well as developing new statistical methods to tackle challenging astronomical questions.&lt;/p&gt;
 </description>

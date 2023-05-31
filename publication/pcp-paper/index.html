@@ -28,10 +28,10 @@
   
     
   
-  <meta name="description" content="We demonstrate the power of Gibbs point process models from the spatial statistics literature when applied to studies of resolved galaxies. We conduct a rigorous analysis of the spatial distributions of objects in the star formation complexes of M33, including giant molecular clouds (GMCs) and young stellar cluster candidates (YSCCs). We choose a hierarchical model structure from GMCs to YSCCs based on the natural formation hierarchy between them. This approach circumvents the limitations of the empirical two-point correlation function analysis by naturally accounting for the inhomogeneity present in the distribution of YSCCs. We also investigate the effects of GMCs&#39; properties on their spatial distributions. We confirm that the distribution of GMCs and YSCCs are highly correlated. We found that the spatial distributions of YSCCs reaches a peak of clustering pattern at around 250 pc scale compared to a Poisson process. This clustering mainly occurs in regions where the galactocentric distance is greater than 4.5 kpc. Furthermore, the galactocentric distance of GMCs and their mass have  strong positive effects on the correlation strength between GMCs and YSCCs. We outline some possible implications of these findings for our understanding of the cluster formation process.">
+  <meta name="description" content="We propose a novel set of Poisson Cluster Process models to detect Ultra-Diffuse Galaxies (UDGs), a recently-discovered class of galaxies that are challenging to detect and are of substantial interests in modern astrophysics. We construct an improved spatial birth-death-move MCMC algorithm to make inferences about the locations of these otherwise un-observable galaxies. Our novel models significantly out-perform existing approaches based on the Log-Gaussian Cox Process; the novel marked point process we propose can also improve the detection performance for UDGs in noisy environments. We find evidence of a potential new &#34;dark galaxy&#34; that was not detected using previous methods.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://davidolohowski.github.io/publication/m33-paper/">
+  <link rel="alternate" hreflang="en-us" href="https://davidolohowski.github.io/publication/pcp-paper/">
 
   
 
@@ -215,7 +215,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://davidolohowski.github.io/publication/m33-paper/">
+  <link rel="canonical" href="https://davidolohowski.github.io/publication/pcp-paper/">
 
   
   
@@ -223,20 +223,21 @@
   
   
     
+    
   
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Dayi (David) Li">
-  <meta property="og:url" content="https://davidolohowski.github.io/publication/m33-paper/">
-  <meta property="og:title" content="Gibbs Point Process Model for Young Star Clusters in M33 | Dayi (David) Li">
-  <meta property="og:description" content="We demonstrate the power of Gibbs point process models from the spatial statistics literature when applied to studies of resolved galaxies. We conduct a rigorous analysis of the spatial distributions of objects in the star formation complexes of M33, including giant molecular clouds (GMCs) and young stellar cluster candidates (YSCCs). We choose a hierarchical model structure from GMCs to YSCCs based on the natural formation hierarchy between them. This approach circumvents the limitations of the empirical two-point correlation function analysis by naturally accounting for the inhomogeneity present in the distribution of YSCCs. We also investigate the effects of GMCs&#39; properties on their spatial distributions. We confirm that the distribution of GMCs and YSCCs are highly correlated. We found that the spatial distributions of YSCCs reaches a peak of clustering pattern at around 250 pc scale compared to a Poisson process. This clustering mainly occurs in regions where the galactocentric distance is greater than 4.5 kpc. Furthermore, the galactocentric distance of GMCs and their mass have  strong positive effects on the correlation strength between GMCs and YSCCs. We outline some possible implications of these findings for our understanding of the cluster formation process."><meta property="og:image" content="https://davidolohowski.github.io/publication/m33-paper/featured.jpg">
-  <meta property="twitter:image" content="https://davidolohowski.github.io/publication/m33-paper/featured.jpg"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://davidolohowski.github.io/publication/pcp-paper/">
+  <meta property="og:title" content="Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies | Dayi (David) Li">
+  <meta property="og:description" content="We propose a novel set of Poisson Cluster Process models to detect Ultra-Diffuse Galaxies (UDGs), a recently-discovered class of galaxies that are challenging to detect and are of substantial interests in modern astrophysics. We construct an improved spatial birth-death-move MCMC algorithm to make inferences about the locations of these otherwise un-observable galaxies. Our novel models significantly out-perform existing approaches based on the Log-Gaussian Cox Process; the novel marked point process we propose can also improve the detection performance for UDGs in noisy environments. We find evidence of a potential new &#34;dark galaxy&#34; that was not detected using previous methods."><meta property="og:image" content="https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-12-21T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2023-02-13T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-12-21T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2023-02-13T00:00:00&#43;00:00">
   
 
   
@@ -260,16 +261,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "https://davidolohowski.github.io/publication/m33-paper/"
+    "@id": "https://davidolohowski.github.io/publication/pcp-paper/"
   },
-  "headline": "Gibbs Point Process Model for Young Star Clusters in M33",
+  "headline": "Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies",
   
-  "image": [
-    "https://davidolohowski.github.io/publication/m33-paper/featured.jpg"
-  ],
-  
-  "datePublished": "2021-12-21T00:00:00Z",
-  "dateModified": "2021-12-21T00:00:00Z",
+  "datePublished": "2023-02-13T00:00:00Z",
+  "dateModified": "2023-02-13T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -284,7 +281,7 @@
       "url": "img/https://davidolohowski.github.io/"
     }
   },
-  "description": "We demonstrate the power of Gibbs point process models from the spatial statistics literature when applied to studies of resolved galaxies. We conduct a rigorous analysis of the spatial distributions of objects in the star formation complexes of M33, including giant molecular clouds (GMCs) and young stellar cluster candidates (YSCCs). We choose a hierarchical model structure from GMCs to YSCCs based on the natural formation hierarchy between them. This approach circumvents the limitations of the empirical two-point correlation function analysis by naturally accounting for the inhomogeneity present in the distribution of YSCCs. We also investigate the effects of GMCs' properties on their spatial distributions. We confirm that the distribution of GMCs and YSCCs are highly correlated. We found that the spatial distributions of YSCCs reaches a peak of clustering pattern at around 250 pc scale compared to a Poisson process. This clustering mainly occurs in regions where the galactocentric distance is greater than 4.5 kpc. Furthermore, the galactocentric distance of GMCs and their mass have  strong positive effects on the correlation strength between GMCs and YSCCs. We outline some possible implications of these findings for our understanding of the cluster formation process."
+  "description": "We propose a novel set of Poisson Cluster Process models to detect Ultra-Diffuse Galaxies (UDGs), a recently-discovered class of galaxies that are challenging to detect and are of substantial interests in modern astrophysics. We construct an improved spatial birth-death-move MCMC algorithm to make inferences about the locations of these otherwise un-observable galaxies. Our novel models significantly out-perform existing approaches based on the Log-Gaussian Cox Process; the novel marked point process we propose can also improve the detection performance for UDGs in noisy environments. We find evidence of a potential new \"dark galaxy\" that was not detected using previous methods."
 }
 </script>
 
@@ -302,7 +299,7 @@
 
 
 
-  <title>Gibbs Point Process Model for Young Star Clusters in M33 | Dayi (David) Li</title>
+  <title>Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies | Dayi (David) Li</title>
 
 </head>
 
@@ -602,26 +599,18 @@
 
 
 
-
-
-
-
-
-
-
+  
 
   
+  
+  
+<div class="article-container pt-3">
+  <h1>Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies</h1>
+
+  
+
   
     
-  
-
-
-<div class="article-container pt-3">
-  <h1>Gibbs Point Process Model for Young Star Clusters in M33</h1>
-
-  
-
-  
 
 
 <div class="article-metadata">
@@ -636,7 +625,7 @@
 
 
   
-  <span><a href="/authors/dayi-li/">Dayi Li</a></span>, <span><a href="/authors/pauline-barmby/">Pauline Barmby</a></span>
+  <span><a href="/authors/dayi-li/">Dayi Li</a></span>, <span><a href="/authors/alex-stringer/">Alex Stringer</a></span>, <span><a href="/authors/patrick-brown/">Patrick Brown</a></span>, <span><a href="/authors/gwendolyn-eadie/">Gwendolyn Eadie</a></span>, <span><a href="/authors/roberto-abraham/">Roberto Abraham</a></span>
 
   </div>
   
@@ -648,7 +637,7 @@
     
       
     
-    December 2021
+    February 2023
   </span>
   
 
@@ -665,66 +654,22 @@
 
 </div>
 
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="btn-links mb-3">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/https://doi.org/10.1093/mnras/staa3908" target="_blank" rel="noopener">
-  DOI
-</a>
-
-
-
-</div>
-
-
-</div>
-
-
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 626px;">
-  <div style="position: relative">
-    <img src="/publication/m33-paper/featured_hua1a71e7377d58301afec426b1b06963d_846726_720x0_resize_q90_lanczos.jpg" alt="" class="featured-image">
     
-  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 </div>
 
 
@@ -733,7 +678,7 @@
 
     
     <h3>Abstract</h3>
-    <p class="pub-abstract">We demonstrate the power of Gibbs point process models from the spatial statistics literature when applied to studies of resolved galaxies. We conduct a rigorous analysis of the spatial distributions of objects in the star formation complexes of M33, including giant molecular clouds (GMCs) and young stellar cluster candidates (YSCCs). We choose a hierarchical model structure from GMCs to YSCCs based on the natural formation hierarchy between them. This approach circumvents the limitations of the empirical two-point correlation function analysis by naturally accounting for the inhomogeneity present in the distribution of YSCCs. We also investigate the effects of GMCs&rsquo; properties on their spatial distributions. We confirm that the distribution of GMCs and YSCCs are highly correlated. We found that the spatial distributions of YSCCs reaches a peak of clustering pattern at around 250 pc scale compared to a Poisson process. This clustering mainly occurs in regions where the galactocentric distance is greater than 4.5 kpc. Furthermore, the galactocentric distance of GMCs and their mass have  strong positive effects on the correlation strength between GMCs and YSCCs. We outline some possible implications of these findings for our understanding of the cluster formation process.</p>
+    <p class="pub-abstract">We propose a novel set of Poisson Cluster Process models to detect Ultra-Diffuse Galaxies (UDGs), a recently-discovered class of galaxies that are challenging to detect and are of substantial interests in modern astrophysics. We construct an improved spatial birth-death-move MCMC algorithm to make inferences about the locations of these otherwise un-observable galaxies. Our novel models significantly out-perform existing approaches based on the Log-Gaussian Cox Process; the novel marked point process we propose can also improve the detection performance for UDGs in noisy environments. We find evidence of a potential new &ldquo;dark galaxy&rdquo; that was not detected using previous methods.</p>
     
 
     
@@ -763,7 +708,7 @@
       <div class="col-md-10">
         <div class="row">
           <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">MNRAS, 501, 3, 3472-3489, 2021</div>
+          <div class="col-12 col-md-9">Submitted to Annals of Applied Statistics</div>
         </div>
       </div>
       <div class="col-md-1"></div>

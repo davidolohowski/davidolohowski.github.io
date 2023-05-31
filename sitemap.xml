@@ -3,53 +3,98 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://davidolohowski.github.io/publication_types/3/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/alex-stringer/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://davidolohowski.github.io/authors/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://davidolohowski.github.io/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://davidolohowski.github.io/authors/dayi-li/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidolohowski.github.io/talk/jsm2020-talk/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <loc>https://davidolohowski.github.io/authors/gwendolyn-eadie/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidolohowski.github.io/talk/</loc>
-    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+    <loc>https://davidolohowski.github.io/authors/patrick-brown/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://davidolohowski.github.io/publication_types/3/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://davidolohowski.github.io/publication/m33-paper/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://davidolohowski.github.io/authors/pauline-barmby/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <loc>https://davidolohowski.github.io/publication/pcp-paper/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://davidolohowski.github.io/publication_types/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://davidolohowski.github.io/publication/</loc>
-    <lastmod>2020-07-08T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/roberto-abraham/</loc>
+    <lastmod>2023-02-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/aaron-romanowsky/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/publication/lgcp-paper/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/pieter-van-dokkum/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/shany-danieli/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/steven-janssens/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/william-harris/</loc>
+    <lastmod>2022-08-08T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/publication/m33-paper/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/authors/pauline-barmby/</loc>
+    <lastmod>2021-12-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -77,7 +122,19 @@
   </url>
   
   <url>
+    <loc>https://davidolohowski.github.io/projects/gc_count/</loc>
+  </url>
+  
+  <url>
     <loc>https://davidolohowski.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/projects/fast_inf/</loc>
+  </url>
+  
+  <url>
+    <loc>https://davidolohowski.github.io/projects/</loc>
   </url>
   
   <url>
