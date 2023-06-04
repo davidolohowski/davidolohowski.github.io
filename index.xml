@@ -5,12 +5,20 @@
     <link>https://davidolohowski.github.io/</link>
       <atom:link href="https://davidolohowski.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Dayi (David) Li</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 13 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 04 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://davidolohowski.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Dayi (David) Li</title>
       <link>https://davidolohowski.github.io/</link>
     </image>
+    
+    <item>
+      <title>Fast Inference using Spline Approximation for Detecting Ultra-Diffuse Galaxies by Globular Clusters while Accounting for Uncertainty on Globular Clusters with Data Augmentation</title>
+      <link>https://davidolohowski.github.io/projects/fast_inf/</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://davidolohowski.github.io/projects/fast_inf/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Poisson Cluster Process Models for Detecting Ultra-Diffuse Galaxies</title>
@@ -45,7 +53,7 @@
 &lt;p&gt;My Chinese name is 李大一， 李 (Li, don&#39;t think there&#39;s any issue with how to pronounce it) is the family name; 大一 (Dah Yee) is my first name. Quite ironically, the literal translation of my first name is &amp;ldquo;Big One&amp;rdquo; while I am no where near anything big (although my head may have an above average size). Certainly, it doesn&#39;t carry the meaning of its literal translation, but I don&#39;t know what it really means since my dad is still not willing to tell me.&lt;/p&gt;
 &lt;h4 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h4&gt;
 &lt;p&gt;I draw and doodle in my spare time. In fact, I was aiming for a career as an artist all the way till high school. But I dropped it as a career path due to multiple reasons and it ended up as a hobby after high school. It still provides me with a lot of calm and comfort, however, and I enjoy the absolute freedom when I let my imagination loose.&lt;/p&gt;
-&lt;p&gt;I am also a die-hard Barcelona fan simply because of the GOAT &amp;mdash; Lionel Messi. The debate on whether he is the GOAT has already settled after the 2022 WC.&lt;/p&gt;
+&lt;p&gt;I am also a die-hard of the GOAT &amp;mdash; Lionel Messi. The debate on whether he is the GOAT has already settled after the 2022 WC.&lt;/p&gt;
 &lt;p&gt;I also quite enjoy classical musics as well as movie scores when I need to focus and study. Debussy and Mozart are probably on the top of my list. Interstellar and Star Wars soundtracks are simply genius.&lt;/p&gt;
 &lt;p&gt;I am also an avid fantasy/sci-fi fan. It might be cliche, but Star Wars, LOTR and Harry Potter can always make me go on and on.&lt;/p&gt;
 </description>
@@ -58,7 +66,7 @@
       <guid>https://davidolohowski.github.io/research/</guid>
       <description>&lt;p&gt;Astrostatistics is an emerging and fast-growing cross-disciplinary field. It is at the intersection of astrophysics and statistics; it encompasses the application of modern statistical methodologies to astrophysics research, as well as the development of &lt;em&gt;novel&lt;/em&gt; statistical methodologies for astrophysics which can lead to application in other scientific disciplines.&lt;/p&gt;
 &lt;p&gt;I am a trained statistician, my research interests in statistics are mainly spatial statistics, Bayesian inference/computation, as well as Markov Chain Monte Carlo (MCMC) algorithms.&lt;/p&gt;
-&lt;p&gt;My Ph.D. work focuses on developing novel methodology in spatial point processes to help astronomers better detect and understad a class of newly-found galaxies called the ultra-diffuse galaxies(UDGs). These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). However, it has been found that many of these galaxies have a significant population of globular clusters which can be served as a tracer for the location of their home UDGs. Developing methods and models to discover more of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
+&lt;p&gt;My Ph.D. work focuses on developing novel methodology in spatial point processes to help astronomers better detect and understand a class of newly-discovered galaxies called the ultra-diffuse galaxies(UDGs). These galaxies are very hard to detect in that they have extremely low surface brightness (some only have 1% of the stars of the Milky Way Galaxy) but can be as much or more massive than the Milky Way (due to dark matter). However, it has been found that many of these galaxies have a significant population of globular clusters which can be served as a tracer for the location of their home UDGs. Developing methods and models to discover more of these galaxies can shed new light on our understanding of the Universe.&lt;/p&gt;
 </description>
     </item>
     
@@ -73,16 +81,8 @@
     <item>
       <title>A Principled Bayesian Estimation of the Globular Cluster counts in Ultra-Diffuse Galaxies using thinned Poisson Point Processes</title>
       <link>https://davidolohowski.github.io/projects/gc_count/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://davidolohowski.github.io/projects/gc_count/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fast Inference using Spline Approximation for Detecting Ultra-Diffuse Galaxies by Globular Clusters while Accounting for Uncertainty on Globular Clusters with Data Augmentation</title>
-      <link>https://davidolohowski.github.io/projects/fast_inf/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://davidolohowski.github.io/projects/fast_inf/</guid>
       <description></description>
     </item>
     
