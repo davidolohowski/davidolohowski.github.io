@@ -1,2 +1,2 @@
 # davidolohowski.github.io
-Personal Website of Dayi Li
+Personal Website of Dayi Li (Deprecated)
